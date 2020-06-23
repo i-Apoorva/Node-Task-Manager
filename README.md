@@ -1,6 +1,6 @@
 # Node-Task-Manager
 
-An event manager application with authorization and authentication implemented for user profiles. 
+An event manager application with JWT auth- authorization and authentication implemented for user profiles, Express. 
 
 Mongodb database is being used. 
 
